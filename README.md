@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SabinPoudel
-- 👀 I’m interested in Computers
+- 👀 I’m interested in Programming
 - 🌱 I’m currently pursuing Computer engineering
 - 📫 facebook.com/sabin.poudel.46
 
